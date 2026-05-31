@@ -134,13 +134,6 @@ The dashboard consists of four pages:
 - Price Uplift Analysis
 - Revenue Optimization Insights
 
-### Page 4: Geographic Market Insights
-- Location-Based Analysis
-- Borough Pricing Patterns
-- Demand Hotspots
-
-
-
 
 ## Technology Stack
 
